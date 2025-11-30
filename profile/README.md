@@ -17,6 +17,8 @@ If a dot is infront of PRTGN, I.E. `.prtgn`, then the `prtgn` part is formated l
 
 If a dot in not infront of PRTGN, I.E. `PRTGN`, then the `PRTGN` part is formated capitlised. 
 
+The only exeption to this is in things such as Rust / Cargo files, where Snakecase is used. Then what would normaly be `PRTGN` may be replaced with `prtgn`.
+
 
 
 ***Protogens are a fictional furry species created by [CoolKoinu](https://coolkoinu.carrd.co)***
