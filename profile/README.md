@@ -19,6 +19,9 @@ If a dot in not infront of PRTGN, I.E. `PRTGN`, then the `PRTGN` part is formate
 
 The only exeption to this is in things such as Rust / Cargo files, where Snakecase is used. Then what would normaly be `PRTGN` may be replaced with `prtgn`. Such as in PRTGN_encoding. The Rust crate version is `prtgn_encoding` insted of `PRTGN_encoding`.
 
+#### Teams
+
+@PRTGN-Development-Team/crates-io-managment | Managment of crates.io releases for PRTGN software.
 
 
 ***Protogens are a fictional furry species created by [CoolKoinu](https://coolkoinu.carrd.co)***
