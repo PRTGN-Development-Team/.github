@@ -27,4 +27,18 @@ The only exeption to this is in things such as Rust / Cargo files, where Snakeca
 
  - @PRTGN-Development-Team/documentation-managment | Managment of PRTGN documentation
 
+#### Joining the PRTGN Development Team
+
+There are two main ways to join the PRTGN Development Team.
+
+##### Self Invitation
+
+Send us an email at `prtgn_dev@protonmail.com`!
+
+Provide what you would like to help with and a demonstration of your coding capibility. You may not use fully AI code as a demonstration of your ability.
+
+##### Dedication
+
+If we notice you continusosly giving helpful information and or providing helpful code and sugestions, we may ask you if you wish to join the PRTGN Development Team.
+
 ***Protogens are a fictional furry species created by [CoolKoinu](https://coolkoinu.carrd.co)***
