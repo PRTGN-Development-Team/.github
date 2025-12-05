@@ -11,7 +11,7 @@
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
 
-#### Name Formating
+### Name Formating
 
 If a dot is infront of PRTGN, I.E. `.prtgn`, then the `prtgn` part is formated lowercase.
 
@@ -19,7 +19,7 @@ If a dot in not infront of PRTGN, I.E. `PRTGN`, then the `PRTGN` part is formate
 
 The only exeption to this is in things such as Rust / Cargo files, where Snakecase is used. Then what would normaly be `PRTGN` may be replaced with `prtgn`. Such as in PRTGN_encoding. The Rust crate version is `prtgn_encoding` insted of `PRTGN_encoding`.
 
-#### Teams
+### Teams
 
 @PRTGN-Development-Team/crates-io-managment | Managment of crates.io releases for PRTGN software.
 
@@ -27,17 +27,17 @@ The only exeption to this is in things such as Rust / Cargo files, where Snakeca
 
  - @PRTGN-Development-Team/documentation-managment | Managment of PRTGN documentation
 
-#### Joining the PRTGN Development Team
+### Joining the PRTGN Development Team
 
 There are two main ways to join the PRTGN Development Team.
 
-##### Self Invitation
+#### Self Invitation
 
 Send us an email at `prtgn_dev@protonmail.com`!
 
 Provide what you would like to help with and a demonstration of your coding capibility. You may not use fully AI code as a demonstration of your ability.
 
-##### Dedication
+#### Dedication
 
 If we notice you continusosly giving helpful information and or providing helpful code and sugestions, we may ask you if you wish to join the PRTGN Development Team.
 
