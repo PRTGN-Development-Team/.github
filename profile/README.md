@@ -61,6 +61,19 @@ None so far, but were always looking out for more! Use the GitHub tag `prtgn` an
 
 [firefly](https://github.com/ilialyl/firefly), "TUI music player supporting FLAC, Opus, MP3, and WAV." -- [ilialyl](https://github.com/ilialyl)
 
+## Shoutouts
+
+### Our Team
+
+**ExoticDG / Nova Shadowtail** | Creator | [GitHub](https://github.com/ExoticDG)
+
+### Insparation / Ideas
+
+**Generic Purple Protogen** | Inspration for the project | [Youtube](https://www.youtube.com/@genericpurpleprotogen1)
+
+**Ivycomb / Ivycomb Music** | Insparation for PRTGN_WAV files | [Youtube](https://www.youtube.com/@Ivycomb) / [Music Youtube](https://www.youtube.com/@IvycombMusic)
+
+
 ----
 
 ***Protogens are a fictional furry species created by [CoolKoinu](https://coolkoinu.carrd.co)***
