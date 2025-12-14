@@ -57,9 +57,13 @@ If we notice you continusosly giving helpful information and or providing helpfu
 
 None so far, but were always looking out for more! Use the GitHub tag `prtgn` and you might just get featured here!
 
-## Reposotories Recognised by PRTGN. Either for being cool or for being something used in our software.
+## Recognised Reposotories
+
+Reposotories Recognised by The PRTGN Development Team. Either for being cool or for being something used in our software.
 
 [firefly](https://github.com/ilialyl/firefly), "TUI music player supporting FLAC, Opus, MP3, and WAV." -- [ilialyl](https://github.com/ilialyl)
+
+[Paw-Connect](https://github.com/LeoDJ/Paw-Connect), "An alternative PCB pawprint for the Tag-Connect TC2030 pogo pin programming cable" -- [LeoDJ](https://github.com/LeoDJ)
 
 ## Shoutouts
 
