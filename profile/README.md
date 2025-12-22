@@ -37,6 +37,8 @@ Send us an email at `prtgn_dev@protonmail.com`!
 
 Provide what you would like to help with and a demonstration of your coding capibility. You may not use fully AI code as a demonstration of your ability.
 
+We are currently looking for people who can use Rust. This project is ment to be all Rust, for web development HTML / CSS / Javascript is fine, though idealy would be switched to Rust, Yew, and Tailwind CSS. 
+
 ### Dedication
 
 If we notice you continusosly giving helpful information and or providing helpful code and sugestions, we may ask you if you wish to join the PRTGN Development Team.
