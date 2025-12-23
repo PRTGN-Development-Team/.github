@@ -74,7 +74,7 @@ Reposotories Recognised by The PRTGN Development Team. Either for being cool or 
 
 ### Our Team
 
-**ExoticDG / Nova Shadowtail** | Creator | [GitHub](https://github.com/ExoticDG)
+**ExoticDG / Nova Shadowtail** | Creator / Lead Developer | [GitHub](https://github.com/ExoticDG)
 
 ### Insparation / Ideas
 
@@ -86,5 +86,5 @@ Reposotories Recognised by The PRTGN Development Team. Either for being cool or 
 
 ----
 
-***Protogens are a fictional furry species created by [CoolKoinu](https://coolkoinu.carrd.co)***
+***Protogens are a fictional furry species created by [CoolKoinu](https://coolkoinu.carrd.co), they are apart of the lore universe [Zenith’s Outer Reach Universe](https://zoruniverse.info), also created by CoolKoinu.***
 
