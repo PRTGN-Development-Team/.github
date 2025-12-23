@@ -29,6 +29,9 @@ The only exeption to this is in things such as Rust / Cargo files, where Snakeca
 
 ## Joining the PRTGN Development Team
 
+Our current devlopment workflow has the [RustRover IDE](https://www.jetbrains.com/rust/) from [JetBrains](https://github.com/JetBrains) run on either Fedora Linux 42 or Windows 11 with Fedora Linux 42 WSL for compileing. 
+
+
 There are two main ways to join the PRTGN Development Team.
 
 ### Self Invitation
