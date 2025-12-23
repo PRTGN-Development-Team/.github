@@ -78,10 +78,11 @@ Reposotories Recognised by The PRTGN Development Team. Either for being cool or 
 
 ### Insparation / Ideas
 
-**Generic Purple Protogen** | Inspration for the project | [Youtube](https://www.youtube.com/@genericpurpleprotogen1)
+**Generic Purple Protogen** | Inspration for the project | [Youtube](https://www.youtube.com/@genericpurpleprotogen1) / [Linktree](https://linktr.ee/TheGenericPurpleProtogen)
 
-**Ivycomb / Ivycomb Music** | Insparation for PRTGN_WAV files | [Youtube](https://www.youtube.com/@Ivycomb) / [Music Youtube](https://www.youtube.com/@IvycombMusic)
+**ivycomb / Ivycomb Music** | Insparation for PRTGN_WAV and PRTGN_FLAC files | [Youtube](https://www.youtube.com/@Ivycomb) / [Music Youtube](https://www.youtube.com/@IvycombMusic) / [Website](https://ivycomb.com)
 
+**SaveAFox Corporation / SaveAFox Rescue** | Insparation for random fox images | [Youtube](https://www.youtube.com/@Saveafox) / [Website](https://www.saveafox.org)
 
 ----
 
