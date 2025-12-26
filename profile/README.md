@@ -74,7 +74,7 @@ Reposotories Recognised by The PRTGN Development Team. Either for being cool or 
 
 ### Our Team
 
-**ExoticDG / Nova Shadowtail** | Creator / Lead Developer | [GitHub](https://github.com/ExoticDG)
+**ExoticDG / Nova Shadowtail** | Creator / Lead Developer | [GitHub](https://github.com/ExoticDG) | Here since October 4th, 2025
 
 ### Insparation / Ideas
 
