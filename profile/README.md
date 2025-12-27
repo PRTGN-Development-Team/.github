@@ -29,7 +29,7 @@ The only exeption to this is in things such as Rust / Cargo files, where Snakeca
 
 ## Joining the PRTGN Development Team
 
-Our current devlopment workflow has the [RustRover IDE](https://www.jetbrains.com/rust/) from [JetBrains](https://github.com/JetBrains) run on either Fedora Linux 42 or Windows 11 with Fedora Linux 42 WSL for compileing. 
+Our current development workflow has the [RustRover IDE](https://www.jetbrains.com/rust/) from [JetBrains](https://github.com/JetBrains)  run on either Fedora Linux 42 or Windows 11 with Fedora Linux 42 WSL for compiling.
 
 
 There are two main ways to join the PRTGN Development Team.
@@ -38,7 +38,7 @@ There are two main ways to join the PRTGN Development Team.
 
 Send us an email at `prtgn_dev@protonmail.com`!
 
-Provide what you would like to help with and a demonstration of your coding capibility. You may not use fully AI code as a demonstration of your ability. You may use AI assistance in coding, though you need knowledge of Rust. AI cannot genreate good code fully on its own, espeialy in Rust. AI is a useful assistant though it cannot be used for full development.
+Provide what you would like to help with and a demonstration of your coding capability. You may not use fully AI code as a demonstration of your ability. You may use AI assistance in coding, though you need knowledge of Rust. AI cannot generate good code fully on its own, especially in Rust. AI is a useful assistant though it cannot be used for full development.
 
 We are currently looking for people who can use Rust. This project is ment to be all Rust, for web development HTML / CSS / Javascript is fine, though idealy would be switched to Rust, Yew, and Tailwind CSS. 
 
