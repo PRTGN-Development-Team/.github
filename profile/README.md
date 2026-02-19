@@ -115,7 +115,7 @@ Reposotories Recognised by The PRTGN Development Team. Either for being cool or 
 
 [Paw-Connect](https://github.com/LeoDJ/Paw-Connect), "An alternative PCB pawprint for the Tag-Connect TC2030 pogo pin programming cable" -- [LeoDJ](https://github.com/LeoDJ)
 
-[RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI), "Force Remove Copilot, Recall and More in Windows 11" -- [zoicware](https://github.com/zoicware) || *"RemoveWindowsAI has been used on all of my Windows 11 devices and will continue to be used untill my full transition to Fedora KDE is compleat."* -- PRTGN Creator and Lead Developer (ExoticDG / Nova Shadowtail)
+[RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI), "Force Remove Copilot, Recall and More in Windows 11" -- [zoicware](https://github.com/zoicware) || *"RemoveWindowsAI has been used on all of my Windows 11 devices and will continue to be used untill my full transition to Fedora KDE is complete."* -- PRTGN Creator and Lead Developer (ExoticDG / Nova Shadowtail)
 
 ## Shoutouts
 
