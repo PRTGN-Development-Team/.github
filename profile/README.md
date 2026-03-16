@@ -72,6 +72,8 @@ The only exeption to this is in things such as Rust / Cargo files, where Snakeca
 
  - `@PRTGN-Development-Team/documentation-managment` | Managment of PRTGN documentation
 
+`@PRTGN-Development-Team/prtgn-linux` | Managing the PRTGN Linux distribution.
+
 ## Joining the PRTGN Development Team
 
 Our current development workflow has the [RustRover IDE](https://www.jetbrains.com/rust/) from [JetBrains](https://github.com/JetBrains)  run on either Fedora Linux 42 or Windows 11 with Fedora Linux 42 WSL for compiling.
@@ -102,6 +104,8 @@ If we notice you continusosly giving helpful information and or providing helpfu
 [PRTGN_Artwork](https://github.com/PRTGN-Development-Team/PRTGN_Artwork) | Official artwork for PRTGN
 
 [PRTGN-Development-Team.github.io](https://github.com/PRTGN-Development-Team/PRTGN-Development-Team.github.io) | GitHub Pages Hosted Website / Documentation
+
+[PRTGN_Linux](https://github.com/PRTGN-Development-Team/PRTGN_Linux) | A linux distribution for PRTGN
 
 ### Comunity
 
