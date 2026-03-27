@@ -1,5 +1,8 @@
 ## Thank you for your interst in PRTGN!
 
+![LGBTQIA+ Pride](https://pride-badges.pony.workers.dev/static/v1?label=LGBTQIA%2B+Pride&labelColor=%23555&stripeWidth=8&stripeColors=E40303%2CFF8C00%2CFFED00%2C008026%2C24408E%2C732982)
+
+
 <!--
 
 **Here are some ideas to get you started:**
@@ -76,6 +79,15 @@ The only exeption to this is in things such as Rust / Cargo files, where Snakeca
 
 ## Joining the PRTGN Development Team
 
+
+>[!IMPORTANT]
+>
+>**PRTGN is in full support of anyone LGBTQIA+. If you are not, this is not the place for you.**
+>
+>![LGBTQIA+ Pride](https://pride-badges.pony.workers.dev/static/v1?label=LGBTQIA%2B+Pride&labelColor=%23555&stripeWidth=8&stripeColors=E40303%2CFF8C00%2CFFED00%2C008026%2C24408E%2C732982)
+
+
+
 Our current development workflow has the [RustRover IDE](https://www.jetbrains.com/rust/) from [JetBrains](https://github.com/JetBrains)  run on either Fedora Linux 43 or Windows 11 with Fedora Linux 43 WSL for compiling.
 
 
@@ -92,6 +104,7 @@ We are currently looking for people who can use Rust. This project is ment to be
 ### Dedication
 
 If we notice you continusosly giving helpful information and or providing helpful code and sugestions, we may ask you if you wish to join the PRTGN Development Team.
+
 
 ## PRTGN Related Reposotories 
 
