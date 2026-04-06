@@ -148,7 +148,7 @@ Reposotories Recognised by The PRTGN Development Team. Either for being cool or 
 
 **SaveAFox Corporation / SaveAFox Rescue** | Insparation for random fox images | [Youtube](https://www.youtube.com/@Saveafox) / [Website](https://www.saveafox.org)
 
-**Wikimedia** *MediaWiki* | API and Insparation for PRTGN_WIKI | [Wikimedai Website](https://www.wikimedia.org) / [MediaWiki Website](https://www.mediawiki.org)
+**Wikimedia** *MediaWiki* | API and Insparation for PRTGN_WIKI | [Wikimedia Website](https://www.wikimedia.org) / [MediaWiki Website](https://www.mediawiki.org)
 
 ----
 
