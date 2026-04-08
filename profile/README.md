@@ -2,6 +2,9 @@
 
 ![LGBTQIA+ Pride](https://pride-badges.pony.workers.dev/static/v1?label=LGBTQIA%2B+Pride&labelColor=%23555&stripeWidth=8&stripeColors=E40303%2CFF8C00%2CFFED00%2C008026%2C24408E%2C732982)
 
+PRTGN-Development-Team, providing free, open-source, Rust based software.
+
+We strive to use as much safe code as we can. As of 04-08-2026 (DD-MM-YYYY), Zero unsafe flags have been used in our Rust based software.
 
 <!--
 
