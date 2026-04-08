@@ -99,7 +99,7 @@ Send us an email at `prtgn_dev@protonmail.com`!
 
 Provide what you would like to help with and a demonstration of your coding capability. You may not use fully AI code as a demonstration of your ability. You may use AI assistance in coding, though you need knowledge of Rust. AI cannot generate good code fully on its own, especially in Rust. AI is a useful assistant though it cannot be used for full development.
 
-We are currently looking for people who can use Rust. This project is ment to be all Rust, for web development HTML / CSS / Javascript is fine, though idealy would be switched to Rust, Yew, and Tailwind CSS. 
+We are currently looking for people who can use Rust. This project is ment to be all Rust, for web development HTML / CSS / Javascript is fine, though idealy would be switched to Rust, Yew, and Tailwind CSS. (Or Tauri and Tailwind CSS. Doesn't need to be Yew.)
 
 ### Dedication
 
@@ -124,15 +124,23 @@ If we notice you continusosly giving helpful information and or providing helpfu
 
 None so far, but were always looking out for more! Use the GitHub tag `prtgn` and you might just get featured here!
 
-## Recognised Reposotories
+## Recognised Reposotories and Rrojects
 
-Reposotories Recognised by The PRTGN Development Team. Either for being cool or for being something used in our software.
+Reposotories and projects recognised by The PRTGN Development Team. Either for being cool or for being something used in our software.
 
 [firefly](https://github.com/ilialyl/firefly), "TUI music player supporting FLAC, Opus, MP3, and WAV." -- [ilialyl](https://github.com/ilialyl)
 
 [Paw-Connect](https://github.com/LeoDJ/Paw-Connect), "An alternative PCB pawprint for the Tag-Connect TC2030 pogo pin programming cable" -- [LeoDJ](https://github.com/LeoDJ)
 
 [RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI), "Force Remove Copilot, Recall and More in Windows 11" -- [zoicware](https://github.com/zoicware) || *"RemoveWindowsAI has been used on all of my Windows 11 devices and will continue to be used untill my full transition to Fedora KDE is complete."* -- PRTGN Creator and Lead Developer (ExoticDG / Nova Shadowtail)
+
+[canine.tools](https://canine.tools/), "Welcome to the canine.tools project! This project is dedicated to hosting privacy-focused frontends and services. canine.tools is non-profit, meaning we don't make money from running this service. If you like what we do, you can donate! canine.tools is themed around the furry & therian community." -- [canine.tools](https://canine.tools/)
+
+[git.gay](https://git.gay), "Offering Git hosting, CI, and static site hosting, git.gay is a platform made to empower queer developers to create, collaborate, and share their projects with the world." -- [git.gay](https://git.gay)
+
+[Anubis](https://anubis.techaro.lol), "Weighs the soul of incoming HTTP requests to stop AI crawlers" -- [TecharoHQ](https://github.com/TecharoHQ)
+
+[Forgejo](https://forgejo.org), "Forgejo is a self-hosted lightweight software forge. Easy to install and low maintenance, it just does the job." -- [Codeberg e.V](https://codeberg.org/Codeberg-e.V./)
 
 ## Shoutouts
 
