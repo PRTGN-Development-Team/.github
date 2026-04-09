@@ -19,7 +19,7 @@ We strive to use as much safe code as we can. As of 04-08-2026 (DD-MM-YYYY), Zer
 
 >[!caution]
 >
->All commits to PRTGN repositories must be signed off on by the commiting party, in compliance to the Developer Certificate of Origin v1.1 from the Linux Foundation.
+>All commits to PRTGN repositories must be signed off on by the commiting party, in compliance to the Developer Certificate of Origin v1.1 from the Linux Foundation, as well as other polices listed in the `.github` reposotory. Listed policies can be found [here](https://github.com/PRTGN-Development-Team/.github/blob/main/POLICIES).
 >
 >-------------------------------------
 >
