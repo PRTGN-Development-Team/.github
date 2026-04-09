@@ -85,9 +85,13 @@ The only exeption to this is in things such as Rust / Cargo files, where Snakeca
 
 >[!IMPORTANT]
 >
->**PRTGN is in full support of anyone LGBTQIA+. If you are not, this is not the place for you.**
+>**PRTGN is in support of anyone LGBTQIA+. If you are not, this is not the place for you.**
 >
 >![LGBTQIA+ Pride](https://pride-badges.pony.workers.dev/static/v1?label=LGBTQIA%2B+Pride&labelColor=%23555&stripeWidth=8&stripeColors=E40303%2CFF8C00%2CFFED00%2C008026%2C24408E%2C732982)
+>
+>**PRTGN is in support of furries (it is a program based off of Protogens after all.) If you are now, this is not the right place for you.**
+>
+>**PRTGN is in support of Alterhumans. If you are not, this is not the place for you.**
 
 
 
@@ -164,4 +168,3 @@ Reposotories and projects recognised by The PRTGN Development Team. Either for b
 ----
 
 ***Protogens are a fictional furry species created by [CoolKoinu](https://coolkoinu.carrd.co), they are apart of the lore universe [Zenith’s Outer Reach Universe](https://zoruniverse.info), also created by CoolKoinu.***
-
