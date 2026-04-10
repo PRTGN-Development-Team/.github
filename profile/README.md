@@ -131,7 +131,7 @@ If we notice you continusosly giving helpful information and or providing helpfu
 
 None so far, but were always looking out for more! Use the GitHub tag `prtgn` and you might just get featured here!
 
-## Recognised Reposotories and Rrojects
+## Recognised Reposotories and Projects
 
 Reposotories and projects recognised by The PRTGN Development Team. Either for being cool or for being something used in our software.
 
