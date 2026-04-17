@@ -61,6 +61,9 @@ We strive to use as much safe code as we can. As of 04-08-2026 (DD-MM-YYYY), Zer
 >-------------------------------------
 >
 
+> [!NOTE]
+> Notice, this orginisation may be moved to a self hosted git domain. In the event of this, this orginsation will become archived. A seperate git mirror would be used. This would be done to avoid Microslop products. 
+
 
 ## Name Formating
 
